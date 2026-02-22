@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/selyna-alonso/projects/source/repos/opengl/Engine/build",
+  "command": "/usr/bin/c++  -I/home/selyna-alonso/projects/source/repos/opengl/Engine/lib/glad/include -g -o CMakeFiles/ENGINE.dir/src/main.cpp.o -c /home/selyna-alonso/projects/source/repos/opengl/Engine/src/main.cpp",
+  "file": "/home/selyna-alonso/projects/source/repos/opengl/Engine/src/main.cpp",
+  "output": "CMakeFiles/ENGINE.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/selyna-alonso/projects/source/repos/opengl/Engine/build",
+  "command": "/usr/bin/cc  -I/home/selyna-alonso/projects/source/repos/opengl/Engine/lib/glad/include -g -o CMakeFiles/ENGINE.dir/lib/glad/src/glad.c.o -c /home/selyna-alonso/projects/source/repos/opengl/Engine/lib/glad/src/glad.c",
+  "file": "/home/selyna-alonso/projects/source/repos/opengl/Engine/lib/glad/src/glad.c",
+  "output": "CMakeFiles/ENGINE.dir/lib/glad/src/glad.c.o"
+}
+]

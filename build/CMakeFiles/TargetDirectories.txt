@@ -1,0 +1,3 @@
+/home/selyna-alonso/projects/source/repos/opengl/Engine/build/CMakeFiles/ENGINE.dir
+/home/selyna-alonso/projects/source/repos/opengl/Engine/build/CMakeFiles/edit_cache.dir
+/home/selyna-alonso/projects/source/repos/opengl/Engine/build/CMakeFiles/rebuild_cache.dir
