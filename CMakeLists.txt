@@ -8,5 +8,3 @@ add_executable(ENGINE src/main.cpp lib/glad/src/glad.c)
 
 target_include_directories(ENGINE PRIVATE lib/glad/include)
 target_link_libraries(ENGINE glfw OpenGL::GL)
-
-
